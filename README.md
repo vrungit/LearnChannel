@@ -9,7 +9,7 @@ This provides the core git binary  and other related lib executables
 
 This provides the man pages required 
 
-git <command> —help with take you to the required man pages
+git <command> --help with take you to the required man pages
 
 
 **git**
